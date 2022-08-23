@@ -1,0 +1,32 @@
+body{
+    background-color: #262626;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+    margin: 5%;
+}
+.grid{
+    display: grid;
+    grid-template-rows: 16.66666666666667%,16.66666666666667%,16.66666666666667%,16.66666666666667%;
+}
+#menu{
+    font-size: 30px;
+    text-align: center;
+}
+#itensMenu a{
+    text-decoration: none;
+    color: aliceblue;
+    text-align: center;
+    padding: 2%;
+}
+
+#imagemBanner{
+    width: 100%;
+    height: 90%;
+}
+
+#imagemApresentacao{
+    padding-left: 42%;
+    padding-bottom: 5%;
+    text-align: center;
+}
